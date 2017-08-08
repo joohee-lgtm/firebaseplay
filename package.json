@@ -1,7 +1,7 @@
 {
-  "name": "es6-app-boilerplate",
+  "name": "firebaseplay",
   "version": "0.0.1",
-  "description": "playground for es6",
+  "description": "playground for firebase",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
@@ -9,14 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "httpshttps://github.com/kjhwee91/es6-app-boilerplate"
+    "url": "httpshttps://github.com/kjhwee91/firebaseplay"
   },
   "keywords": [
     "playground"
   ],
   "author": "kjhwee91",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "firebase": "^4.2.0"
+  },
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^6.4.1",

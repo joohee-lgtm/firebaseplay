@@ -13,4 +13,5 @@ doc/
 node_modules
 .idea/
 *.log
+src/app/FIREBASE_CONFIG.js
 
