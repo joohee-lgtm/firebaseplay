@@ -1,0 +1,10 @@
+{
+  "extends": "eslint-config-naver",
+  "rules": {
+    "linebreak-style": "off",
+    "no-shadow": "off"
+  },
+  "globals": {
+    "__dirname": true
+  }
+}
